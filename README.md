@@ -23,7 +23,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rayulu-mukku/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rayulumukku/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/rayulu_" target="_blank"><img src="https://img.shields.io/badge/Twitter-111?logo=x&logoColor=white" /></a>
   <a href="https://instagram.com/rayulu_7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
   <a href="mailto:dasaradharam109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
