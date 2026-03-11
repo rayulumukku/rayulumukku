@@ -44,7 +44,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayulu7&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayulumukku&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook" />
 </p>
 
 
