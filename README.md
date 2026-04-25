@@ -51,7 +51,7 @@ I am **Rayulu Mukku**, a passionate **Full Stack Developer** dedicated to buildi
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayulumukku&label=PROFILE+VIEWS&color=445fa5&style=flat&base=3000" alt="Rayulu Mukku Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rayulumukku&color=0d1b2a&style=flat-square" alt="Rayulu Mukku Profile Views" />
 </p>
 
 <p align="center">
