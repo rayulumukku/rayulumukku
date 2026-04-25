@@ -1,64 +1,59 @@
-<!-- Top Waving Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Rayulu%20Mukku&fontAlign=50&fontAlignY=30&color=0:8E2DE2,100:4A00E0&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Rayulu%20Mukku&fontAlign=50&fontAlignY=35&color=0:8E2DE2,100:4A00E0&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Headline without typing effect -->
-<h1 align="center">Welcome to my profile</h1>
-
-<!-- Roles with typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2200&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Frontend+Developer;Backend+Developer;Full+Stack+DEVELOPER" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&duration=2200&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Frontend+Specialist;Backend+Architect" alt="Rayulu Mukku - Full Stack Developer Animation"/>
 </p>
 
----
-
-### 🌌 About Me
-- **Full Stack Developer** → React.js, Node.js, Express, MongoDB, Tailwind, Python, Firebase  
-- **Frontend Developer** → React.js, Tailwind CSS  
-- **Backend Developer** → Node.js, Express.js, MongoDB, RESTful APIs, Flask 
-
-
----
-
-### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rayulumukku/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/rayulu_" target="_blank"><img src="https://img.shields.io/badge/Twitter-111?logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/rayulu_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="mailto:dasaradharam109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://rayulumukku.vercel.app/"><b>🌐 Portfolio Website</b></a> • 
+  <a href="https://www.linkedin.com/in/rayulumukku/"><b>💼 LinkedIn</b></a> • 
+  <a href="https://x.com/rayulu_"><b>✨ Twitter / X</b></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,ts,html,css,tailwind,python,mongodb,postgres,sqlite,docker,git,linux,figma,firebase,postman" height="40" />
-</p>
+### 🙋‍♂️ About Me
+I am **Rayulu Mukku**, a passionate **Full Stack Developer** dedicated to building scalable web applications and seamless user experiences. I specialize in the MERN stack and modern cloud technologies.
+
+* 🔭 I’m currently working on **Full Stack Web Applications**
+* 🌱 I’m currently learning **Data Science**
+* 💬 Ask me about **React, Node.js, and Database Optimization**
+* 📫 How to reach me: [dasaradharam109@gmail.com](mailto:dasaradharam109@gmail.com)
 
 ---
 
-### 📊 GitHub Analytics
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayulumukku&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook" />
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Stars-0-444" />
-  <img src="https://img.shields.io/badge/Total%20Commits-177-444" />
-  <img src="https://img.shields.io/badge/Total%20Issues-1-444" />
-</p>
+### 🛠️ Tech Stack & Skills
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Backend** | ![Nodejs](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
 
 ---
 
-<!-- Bottom Waving Banner -->
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayulumukku&show_icons=true&bg_color=00000000&title_color=FF8C00&icon_color=FF8C00&text_color=9eaabb&hide_border=true&rank_icon=github" alt="Rayulu Mukku Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayulumukku&layout=compact&bg_color=00000000&title_color=FF8C00&text_color=9eaabb&hide_border=true" alt="Top Languages" height="150" />
+</div>
+
+---
+
+### 🤝 Connect with Me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4A00E0,100:8E2DE0" />
+  <a href="https://www.linkedin.com/in/rayulumukku/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/rayulu_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/rayulu_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:dasaradharam109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rayulumukku&label=PROFILE+VIEWS&color=445fa5&style=flat&base=3000" alt="Rayulu Mukku Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:4A00E0,100:8E2DE0" />
 </p>
