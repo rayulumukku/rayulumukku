@@ -18,7 +18,7 @@
 I am **Rayulu Mukku**, a passionate **Full Stack Developer** dedicated to building scalable web applications and seamless user experiences. I specialize in the MERN stack and modern cloud technologies.
 
 * 🔭 I’m currently working on **Full Stack Web Applications**
-* 🌱 I’m currently learning **Data Science**
+* 🌱 I’m currently learning **Mobile App Development**
 * 💬 Ask me about **React, Node.js, and Database Optimization**
 * 📫 How to reach me: [rayulumukku@gmail.com](mailto:rayulumukku@gmail.com)
 
