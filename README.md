@@ -20,7 +20,7 @@ I am **Rayulu Mukku**, a passionate **Full Stack Developer** dedicated to buildi
 * 🔭 I’m currently working on **Full Stack Web Applications**
 * 🌱 I’m currently learning **Data Science**
 * 💬 Ask me about **React, Node.js, and Database Optimization**
-* 📫 How to reach me: [dasaradharam109@gmail.com](mailto:dasaradharam109@gmail.com)
+* 📫 How to reach me: [rayulumukku@gmail.com](mailto:rayulumukku@gmail.com)
 
 ---
 
@@ -47,7 +47,7 @@ I am **Rayulu Mukku**, a passionate **Full Stack Developer** dedicated to buildi
   <a href="https://www.linkedin.com/in/rayulumukku/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/rayulu_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/rayulu_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:dasaradharam109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rayulumukku@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
