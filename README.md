@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rayulumukku.vercel.app/"><b>🌐 Portfolio Website</b></a> • 
+  <a href="https://rayulumukku.com"><b>🌐 Portfolio </b></a> • 
   <a href="https://www.linkedin.com/in/rayulumukku/"><b>💼 LinkedIn</b></a> • 
   <a href="https://x.com/rayulu_"><b>✨ Twitter / X</b></a>
 </p>
